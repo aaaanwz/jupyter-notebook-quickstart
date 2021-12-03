@@ -9,16 +9,16 @@
 - "Remote - Containers" plugin (`ms-vscode-remote.remote-containers`)
 
 # Setup
-
-1. Press F1  
+1. Fork this repo and open in VSCode.
+2. Press F1  
     -> choose `Remote-Containers:Reopen in Container`
-2. Copy the server URL displayed on the console
+3. Copy the server URL displayed on the console
 > You can even confirm it by entering `jupyter notebook list` on terminal.
-3. Press F1  
+4. Press F1  
     -> choose `Jupyter: Specify local or remote Jupyter server for connections`  
     -> choose `Existing`  
     -> The URL you just copied will be pasted automatically, so press Enter.
-4. Press F1
+5. Press F1
     -> Click the `Reload` button that appears in the pop-up at the bottom right
 
 ---
@@ -28,13 +28,13 @@
 - "Remote - Containers" plugin (`ms-vscode-remote.remote-containers`)
 
 # セットアップ手順
-
-1. F1を押す  
+1. このリポジトリをフォークし、VSCodeで開く
+2. F1を押す  
     -> `Remote-Containers:Reopen in Container` を選択
-2. VSCodeのコンソールに表示されるサーバーURLをコピーする
+3. VSCodeのコンソールに表示されるサーバーURLをコピーする
 > ターミナルで `jupyter notebook list` を入力することで再確認できます
-3. F1を押す  
+4. F1を押す  
     -> `Jupyter: Specify local or remote Jupyter server for connections` を選択  
     -> `Existing` を選択  
     -> 先程コピーしたURLが自動でペーストされるため、Enterを押します
-4. 右下のポップアップに出てくる `Reload` ボタンをクリックします
+5. 右下のポップアップに出てくる `Reload` ボタンをクリックします
