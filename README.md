@@ -4,7 +4,7 @@
 
 ---
 
-# Requirement
+# Prerequisites
 - VSCode
 - "Remote - Containers" plugin (`ms-vscode-remote.remote-containers`)
 
@@ -18,8 +18,8 @@
     -> choose `Jupyter: Specify local or remote Jupyter server for connections`  
     -> choose `Existing`  
     -> The URL you just copied will be pasted automatically, so press Enter.
-5. Press F1
-    -> Click the `Reload` button that appears in the pop-up at the bottom right
+5. Click the `Reload` button that appears in the pop-up at the bottom right
+> Or, Press F1 -> choose `Developer: Reload Window`
 
 ---
 
@@ -38,3 +38,4 @@
     -> `Existing` を選択  
     -> 先程コピーしたURLが自動でペーストされるため、Enterを押します
 5. 右下のポップアップに出てくる `Reload` ボタンをクリックします
+> または F1を押し、`Developer: Reload Window` を選択します
