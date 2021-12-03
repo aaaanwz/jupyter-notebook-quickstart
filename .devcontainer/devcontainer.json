@@ -1,0 +1,8 @@
+{
+    "dockerFile": "./Dockerfile",
+    "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+    ],
+    "postCreateCommand": "jupyter notebook --no-browser --allow-root"
+}
