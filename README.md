@@ -6,6 +6,7 @@
 
 # Prerequisites
 - VSCode
+- Docker
 - "Remote - Containers" plugin (`ms-vscode-remote.remote-containers`)
 
 # Setup
@@ -25,6 +26,7 @@
 
 # 前提条件
 - VSCode
+- Docker
 - "Remote - Containers" plugin (`ms-vscode-remote.remote-containers`)
 
 # セットアップ手順
