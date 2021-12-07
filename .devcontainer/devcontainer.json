@@ -4,5 +4,5 @@
         "ms-python.python",
         "ms-toolsai.jupyter"
     ],
-    "postCreateCommand": "jupyter notebook --no-browser --allow-root"
+    "postCreateCommand": "jupyter notebook --ip='localhost' --no-browser --allow-root --NotebookApp.token='' --NotebookApp.password=''"
 }
